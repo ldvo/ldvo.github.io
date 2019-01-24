@@ -1,0 +1,41 @@
+body {
+    background-color: #4a86e8;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+
+.container {
+    background-color: white;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    margin: 25px auto 25px auto;
+    padding: 25px;
+    width:  50%;
+    min-width: 500px;
+}
+
+.description {
+    font-style: italic;
+}
+
+.date {
+    color: #888888;
+    float: right;
+    font-size: 13px;
+}
+
+h1, h2 {
+    color: #4a86e8;
+}
+
+h3, h4 {
+    color: #4d4d4d;
+}
+
+hr {
+    border-color: #888888;
+    border-top: 0;
+}
+
+#title {
+    text-align: center;
+}
