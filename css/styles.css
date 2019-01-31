@@ -1,7 +1,7 @@
 body {
-    background-color: #4a86e8;
+    background-color: #ff9800;
     font-family: 'Montserrat', sans-serif;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 #title {
@@ -17,25 +17,10 @@ body {
     min-width: 500px;
 }
 
-.description {
-    font-style: italic;
-}
-
-.date {
-    color: #888888;
-    float: right;
-    font-size: 13px;
-}
-
 h1, h2 {
-    color: #4a86e8;
+    color: #ff9800;
 }
 
-h3, h4 {
-    color: #4d4d4d;
-}
-
-hr {
-    border-color: #888888;
-    border-top: 0;
+li {
+    padding-top: 10px;
 }
